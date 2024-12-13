@@ -1,0 +1,11 @@
+{
+  "_fv": 69,
+  "_type": "tab",
+  "definition": {
+    "name": "Features",
+    "icon": {
+      "value": "Blocks.COMMAND_BLOCK"
+    },
+    "showSearch": true
+  }
+}

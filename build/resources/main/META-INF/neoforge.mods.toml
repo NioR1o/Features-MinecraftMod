@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Apache License version 2.0"
+
+[[mods]]
+modId="features"
+version="0.0.1"
+displayName="Features"
+displayURL="https://github.com/NioR1o/Features-MinecraftMod"
+credits="by NioRio"
+authors="NioRio"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.features]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.features]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.features]]
+    modId="supplementaries"
+    type="required"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
