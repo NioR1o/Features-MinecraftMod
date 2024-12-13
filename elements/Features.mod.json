@@ -4,7 +4,7 @@
   "definition": {
     "name": "Features",
     "icon": {
-      "value": "Blocks.COMMAND_BLOCK"
+      "value": "CUSTOM:Ikistone"
     },
     "showSearch": true
   }

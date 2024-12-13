@@ -6,3 +6,4 @@
 /tp @s -1248 ~ 32
 /locate structure features:debrisnoise_1
 /tp @s -2144 ~ 1168
+/weather clear

@@ -1,3 +1,9 @@
 {
-  "item_group.features.features": "Фишки"
+  "item_group.features.features": "Фишки",
+  "item.features.ikiaxe": "Ики топор",
+  "item.features.ikipickaxe": "Ики кирка",
+  "item.features.ikistone": "Ики",
+  "item.features.ikishovel": "Ики лопата",
+  "item.features.ikichisel": "Ики стаместка",
+  "item.features.ikisword": "Ики меч"
 }
