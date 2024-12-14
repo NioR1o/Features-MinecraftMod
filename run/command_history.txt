@@ -1,9 +1,50 @@
-/locate structure features:debrisnoise_1
-/tp @s -320 ~ 48
-/locate structure features:debrisnoise_1
-/tp @s -576 ~ -272
-/locate structure features:debrisnoise_1
-/tp @s -1248 ~ 32
-/locate structure features:debrisnoise_1
-/tp @s -2144 ~ 1168
-/weather clear
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp @s -3344 ~ 24688
+/locate structure minecraft:desert_pyramid
+/tp @s 816 ~ -416
+/effect give Dev minecraft:night_vision infinite 1 true
+/data merge block ~ ~ ~ {LootTable:"minecraft_or_your_mod_id:the/loot_table/registry/Name"}
+/data merge block ~ ~ ~ {LootTable:"features:the/loot_table/gameplay/ikidrop"}
+/data merge block 831 62 -403 {LootTable:"features:the/loot_table/gameplay/ikidrop"}
+/data merge block 831 62 -403 {LootTable:"features:the/loot_table/registry/ikidrop"}
+/data merge block 831 62 -403 {LootTable:"features:the/loot_table/gameplay/ikidrop"}
+/effect give Dev minecraft:night_vision infinite 1 true
+/locate structure minecraft:desert_pyramid
+/tp @s -208 ~ -4464
+/data merge block -202 69 -4452 {LootTable:"features:the/loot_table/archaeology/iki_drop"}
+/data merge block -202 69 -4452 {LootTable:"features:the/loot_table/archaeology/ikidrop"}
+/data merge block -202 69 -4452 {LootTable:"features:the/loot_table/archaeology/ikidrop.json"}
+/data merge block -202 69 -4452 {LootTable:"features:the/loot_table/archaeology/ikidrop"}
+/data merge block -202 69 -4452 {LootTable:"features:loot_table/archaeology/ikidrop"}
+/data merge block -202 69 -4452 {LootTable:"features:ikidrop"}
+/data merge block -202 69 -4452 {LootTable:"features:loot_table/archaeology/ikidrop"}
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp ~ ~ ~1000
+/locate structure minecraft:desert_pyramid
+/tp @s -5360 ~ 336
+/locate structure features:burial1
+/tp @s -1264 ~ -416
+/locate structure features:burial1
+/tp @s -624 ~ -560

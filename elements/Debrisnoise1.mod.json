@@ -2,7 +2,7 @@
   "_fv": 69,
   "_type": "structure",
   "definition": {
-    "structure": "debris_noise1",
+    "structure": "burial1",
     "projection": "terrain_matching",
     "ignoredBlocks": [
       {
@@ -16,7 +16,7 @@
         "value": "plains"
       }
     ],
-    "terrainAdaptation": "beard_thin",
+    "terrainAdaptation": "encapsulate",
     "generationStep": "SURFACE_STRUCTURES",
     "surfaceDetectionType": "WORLD_SURFACE_WG",
     "useStartHeight": false,

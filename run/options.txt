@@ -22,12 +22,12 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"false"
-renderDistance:5
+renderDistance:24
 simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
-operatorItemsTab:false
+operatorItemsTab:true
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:[]
+resourcePacks:["vanilla","mod_resources","moonlight:mods_dynamic_assets"]
 incompatibleResourcePacks:[]
 lastServer:localhost:25463
 lang:ru_ru

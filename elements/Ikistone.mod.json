@@ -29,7 +29,10 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInformation": {
-      "fixedValue": []
+      "fixedValue": [
+        "Это древний минерал, созданый временем",
+        "Обычно можно найти в подозрительном песке и гравии"
+      ]
     },
     "glowCondition": {
       "fixedValue": false
